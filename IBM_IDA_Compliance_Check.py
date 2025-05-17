@@ -7,7 +7,7 @@ import json
 import datetime
 
 ##### Created by Arindam Banerjee
-##### email: arindambanerjee@in.ibm.com
+##### email: arindam.banerjee.in@gmail.com
 ##### version 1.0
 
 
